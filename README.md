@@ -23,6 +23,8 @@ Hands-on_Multimedia/
 │
 ├── Worksheets 2/               
 │   └── data/
+│   └── 122140030_Worksheet2.ipynb
+│   └── 122140030_Worksheet2.pdf
 │
 └── Hands-on Pemrosesan Audio/   
     ├── data/
