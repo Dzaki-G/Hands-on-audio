@@ -28,7 +28,8 @@ Hands-on_Multimedia/
 │
 └── Hands-on Pemrosesan Audio/   
     ├── data/
-    └── output/
+    └── Exercise_Audio.ipynb
+    └── 122140030_HandsOn.pdf
 ```
 
 ---
